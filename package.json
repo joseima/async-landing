@@ -1,0 +1,28 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "landing con api de youtube",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseima/async-landing.git"
+  },
+  "keywords": [
+    "api",
+    "youtube",
+    "js",
+    "node"
+  ],
+  "author": "“Joseima” <“joseima17@gmial.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseima/async-landing/issues"
+  },
+  "homepage": "https://github.com/joseima/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
